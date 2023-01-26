@@ -1,0 +1,61 @@
+footer {
+    background-color: rgba(29, 36, 43, 1);
+    padding: 64px 0;
+
+    h3{
+        font-style: normal;
+        font-weight: 700;
+        font-size: 20px;
+        line-height: 30px;
+        font-family: 'Noto Sans', sans-serif;
+        color: #FFFFFF;
+        margin-bottom: 30px;
+    }
+
+    input{
+        width: 100%;
+        border-radius: 8px;
+        padding: 8px 12px;
+        background-color: rgb(74,80,85);
+        border: none;
+        background-image: url('../assets/Vector.png');
+        background-repeat: no-repeat;
+        background-position: 230px;
+    }
+
+    ::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+        color: #D9DBE1;
+      }
+
+    .nav-item{
+        font-family: 'Noto Sans', sans-serif;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 26px;
+        color: #D9DBE1;
+        display: block;
+        margin-top: 12px;
+    }
+
+    .left {
+        .logo {
+            margin-bottom: 40px;
+        }
+
+        a {
+            margin-right: 16px;
+        }
+
+        p {
+            font-family: 'Noto Sans', sans-serif;
+            font-style: normal;
+            font-weight: 400;
+            font-size: 14px;
+            line-height: 24px;
+            color: #D9DBE1;
+            margin-top: 40px;
+
+        }
+    }
+}

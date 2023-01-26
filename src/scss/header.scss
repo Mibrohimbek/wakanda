@@ -1,0 +1,30 @@
+header{
+    padding: 24px 0;
+    top: 0;
+    position: sticky;
+    background-color: #fff;
+    transition: .3s;
+    z-index: 1;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+}
+.nav-items{
+    font-family: 'Noto Sans', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    color: #000000;
+}
+
+.btn-start{
+    font-family: 'Noto Sans', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 40px;
+    text-align: center;
+    color: #FFFFFF;
+    background: #0077C0;
+    border-radius: 10px;
+    padding: 3px 28px;
+}
